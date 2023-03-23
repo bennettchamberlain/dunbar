@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1025776629933",
+    "project_id": "dunbar-632c6",
+    "storage_bucket": "dunbar-632c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025776629933:android:977dd935fa4a0cc32d2e24",
+        "android_client_info": {
+          "package_name": "com.dunbar.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025776629933-vkbd3l7fvmtmoinu5511f7sevv5fdioq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLrAQbKco6QZrcGwQSya5oppxRyAK3-Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025776629933-vkbd3l7fvmtmoinu5511f7sevv5fdioq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1025776629933-hflh0hgdkrs17r53cqt9sqkeohfttd4j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.consistantContactApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025776629933:android:81efbcad795dabbe2d2e24",
+        "android_client_info": {
+          "package_name": "com.example.dunbar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025776629933-vkbd3l7fvmtmoinu5511f7sevv5fdioq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLrAQbKco6QZrcGwQSya5oppxRyAK3-Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025776629933-vkbd3l7fvmtmoinu5511f7sevv5fdioq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1025776629933-hflh0hgdkrs17r53cqt9sqkeohfttd4j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.consistantContactApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
