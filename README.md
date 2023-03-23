@@ -1,16 +1,10 @@
-# dunbar
+# Dunbar
 
-A new Flutter project.
+An app to help manage and optimize the number of meaningful relationships you are capable of having.
 
-## Getting Started
+## How it works
 
-This project is a starting point for a Flutter application.
+Let Dunbar access your contacts, pick and choose the contacts your want to keep in touch with on a regular basis, set a frequency of interaction. recieve notifications or check the app to see which contacts you havent been keeping up with.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
